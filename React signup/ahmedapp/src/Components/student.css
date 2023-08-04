@@ -1,0 +1,16 @@
+.login{
+    font-size: 55px;
+    color: aqua;
+    margin-top: 2rem;
+    font-family: fantasy;
+}
+.studentlog{
+    background-color: rgb(255, 138, 138);
+    
+}
+.form{
+    color: blueviolet;
+    background-color: azure;
+    padding-top: 30px;
+    font-family: sans-serif;
+}
