@@ -4,7 +4,7 @@ Welcome to the AhmedApp React project repository! This guide will walk you throu
 
 ## Getting Started
 
-1. **Clone the repository by running: "git clone git@github.com" in your 'git bash'**
+1. **Clone the repository by running: "git clone [git@github.com](https://github.com/AhmadGitacc/Reactrepo.git)" in your 'git bash'**
 
 2. **Install Dependencies:**
 After cloning the repository, navigate to both the root directory by typing "cd React signup" and the 'ahmedapp' directory  by typing "cd ahmedapp" 
@@ -13,6 +13,7 @@ After cloning the repository, navigate to both the root directory by typing "cd 
 like so:
 
 ![install1](https://github.com/AhmadGitacc/Reactrepo/assets/132521399/45a542ff-9654-478f-b89a-195475af25ed)
+
 then:
 
 ![cdinstall](https://github.com/AhmadGitacc/Reactrepo/assets/132521399/945887d1-2b89-4465-bdf7-e72a7a55599b)
@@ -30,7 +31,7 @@ then once its started you see this:
 
 ![started](https://github.com/AhmadGitacc/Reactrepo/assets/132521399/ab5aba8d-9cc4-43a5-9aa2-8bb9e4f0c2d9)
 
-if it dosen't open in the browser automatically click on the link in front of 'local'.
+if it dosen't open in the browser automatically click on the link in front of 'local' then you're done running my react signup page.
 
 
 
